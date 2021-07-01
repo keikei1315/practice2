@@ -1,0 +1,17 @@
+.screen{
+    max-height: 100vh;
+    max-width: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.aaa{
+    height: 100px;
+    width: 50%;
+    background-color: black;
+}
+.bbb{
+    height: 50%;
+    width: 50%;
+    background-color: black;
+}
